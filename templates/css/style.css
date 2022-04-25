@@ -1,0 +1,20 @@
+body {
+    font-family:serif; /* Семейство шрифтов */
+    font-size: 11pt; /* Размер основного шрифта в пунктах  */
+    text-align:justify;
+    background-color:orange; /* Цвет фона веб-страницы */
+    color: #333; /* Цвет основного текста */
+   }
+
+footer {
+    padding: 50px 0 65px;
+  }
+footer .list-inline {
+    margin: 0;
+    padding: 0;
+  }
+footer .copyright {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 0;
+  }
