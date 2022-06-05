@@ -4,7 +4,7 @@
  - Post, Like, create, update, delete
 
 ## RESULT: 
->> watch the video
+> watch the video
 
 
 
